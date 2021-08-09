@@ -1,0 +1,11 @@
+body { 
+    color: rgb(31, 9, 9);
+}
+
+.black-border {
+    border: 10px solid black;
+}
+
+#green-background {
+    background-color: skyblue;
+}
