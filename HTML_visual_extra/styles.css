@@ -1,11 +1,43 @@
-body { 
-    color: rgb(31, 9, 9);
+header {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+
+}
+.inline{
+    display: inline;
+}
+
+nav {
+  text-align: center;
+  padding: 8px;
+}
+
+body {
+  color: rgb(31, 9, 9);
 }
 
 .black-border {
-    border: 10px solid black;
+  border: 3px solid black;
+}
+.red-border {
+  border: 5px solid red;
 }
 
-#green-background {
-    background-color: skyblue;
+h1 {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+h2 {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+section {
+list-style-position:inside;
+text-align: center;
 }
