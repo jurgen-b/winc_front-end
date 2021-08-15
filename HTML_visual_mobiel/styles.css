@@ -1,0 +1,56 @@
+header {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+.inline {
+  display: inline;
+}
+
+nav {
+  text-align: center;
+  padding: 8px;
+}
+
+body {
+  color: rgb(31, 9, 9);
+}
+
+.black-border {
+  border: 3px solid black;
+}
+.red-border {
+  border: 5px solid red;
+}
+
+h1 {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+h2 {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+section {
+  list-style-position: inside;
+  text-align: center;
+}
+
+@media (max-width: 320px) {
+  body {
+    background-color: rgb(53, 25, 212);
+    color: brown;
+  }
+}
+
+@media (max-width: 1024px) {
+  body {
+    background-color: solid rgb(132, 0, 255);
+    color: rgb(0, 162, 255);
+  }
+}
