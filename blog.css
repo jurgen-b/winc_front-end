@@ -1,0 +1,8 @@
+.blogpost {
+  width: 300px;
+  border: 1px solid black;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+}
